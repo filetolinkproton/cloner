@@ -1,3 +1,4 @@
+
 {
 3    "name": "clonerender",
 4    "version": "1.0.0",
@@ -5,7 +6,7 @@
 6    "scripts": {
 7        "build": "echo \"No build specified\" && exit 1",
 8        "test": "echo \"No test specified\" && exit 1",
-9        "start": "node index.js"
+9        "start": "start.sh"
 10    },
 11    "repository": {
 12        "type": "git",
